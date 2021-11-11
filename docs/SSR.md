@@ -1,5 +1,3 @@
-## SSR
-
 #### Server Side Rendering
 
 
