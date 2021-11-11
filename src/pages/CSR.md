@@ -1,5 +1,5 @@
-## CSR
+## SPA
 
-#### Client Side Rendering
+#### Single Page Application
 
-Le Client Side Rendering permet aux développeurs de rendre leurs sites Web entièrement rendus dans le navigateur avec JavaScript. Au lieu d'avoir une page HTML différente par route, un site Web rendu côté client crée chaque route dynamiquement directement dans le navigateur.
+Une Single Page Application est une application web accessible via une page web unique. Le but est d'éviter le chargement d'une nouvelle page à chaque action demandée, et de fluidifier ainsi l'expérience utilisateur.
